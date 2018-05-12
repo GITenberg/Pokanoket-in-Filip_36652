@@ -1,0 +1,36 @@
+_repo: Pokanoket-in-Filip_36652
+_version: 0.1.0
+alternative_title: Philip of Pokanoket. Finnish
+contributor:
+  translator:
+    agent_name: Churberg, Waldemar
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '7860'
+    url: http://www.gutenberg.org/2009/agents/7860
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2011-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36652'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philip, Sachem of the Wampanoags, -1676'
+- !lcc 'E011'
+title: Pokanoket'in Filip
+url: http://www.gutenberg.org/ebooks/36652
